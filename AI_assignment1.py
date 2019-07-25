@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # # AI_1_2
+
 # print("Input number of rows: ")
 # row = int(input())
 # print("Input number of columns: ")
@@ -14,6 +15,7 @@
 # print(lt)
 
 # # AI_1_1
+
 # import math
 # str = input()
 # list = str.split (",")
@@ -28,13 +30,9 @@
 #     lt.append(round(math.sqrt((2*c*li[i])/h)))
 # print(lt)    
 
-# In[ ]:
-
-
-
-
 
 # # AI_1_3
+
 # print("write the words seperated by comma")
 # y=input()
 # y=y.split(",")
@@ -42,6 +40,7 @@
 # print(",".join(y))
 
 # # AI_1_4
+
 # i=input()
 # w={}
 # for x in i.split():
@@ -52,6 +51,7 @@
 #    
 
 # # AI_1_5
+
 # class practice:
 #     def first(self,str):
 #         import math
@@ -103,7 +103,6 @@
 # ob1.fourth(i)
 # print("FINALLY THE ASSIGNMENT IS COMPLETED!!")
 
-# In[ ]:
 
 
 
