@@ -11,7 +11,6 @@
 # for i in range(row):
 #     for j in range(col):
 #        lt[i][j]= i*j
-# 
 # print(lt)
 
 # # AI_1_1
